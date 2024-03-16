@@ -1,0 +1,41 @@
+.mynerve-regular {
+    font-family: "Mynerve", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+
+
+.ok {
+    text-align: center;
+    padding-top: 20%;
+  
+}
+
+.ok :hover {
+   color: orange;
+}
+
+
+body {
+    height: 10%;
+    font-family: 'mynerve';
+    background-image: linear-gradient(blue, rgb(0, 166, 255));
+    
+}
+
+.apple {
+    padding-left: 0.001rem;
+    padding-right: 1rem;
+}
+
+.hi {
+    padding-left: 20%;
+}
+.nom {
+    padding-top: 25%;
+}
+
+
